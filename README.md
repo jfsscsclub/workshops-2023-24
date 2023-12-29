@@ -14,7 +14,7 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2024 Nov 2  | [Intro to CCC + DMOJ](/Meeting3-Intro_to_ccc_and_dmoj/)                                     | Completed |
 | 2024 Nov 9  | [Intro to Competitive Programming](meeting4-Intro_to_comp_prog_2)                           | Completed |
 | 2024 Nov 16 | CANCELLED                                                                                   | N/A |
-| 2024 Nov 23 | [Greedy Agorithms(State)](/Meeting6-React-State/)                                           | Completed |
+| 2024 Nov 23 | [Implementation + Simple Math Problems](/meeting6-Intro_to_comp_prog_4/)                                           | Completed |
 | 2024 Nov 30 | [Intro to React (Hooks)](/Meeting7-React-Hooks/)                                            | Completed |
 | 2024 Dec 7  | [Data Structures](/meeting7-Intro_to_comp_prog_5/)                                          | Completed |
 | 2024 Dec 14 | [Dictionaries](/meeting8-Intro_to_comp_prog_6/)                                             | Completed |
